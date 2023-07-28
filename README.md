@@ -7,3 +7,5 @@ Online Shop with PayPal. Created by NodeJs, Express Js, React, MongoDb.
 5. Create PayPal Developer account and take CLIENT_ID, APP_SECRET and complete in ".env" file for CLIENT_ID, APP_SECRET lines
 6. "npm start" in client directory terminal
 7. "npm run start" or "npm run dev" in backend directory terminal
+
+View Video -> https://www.facebook.com/100015134262219/videos/1429098141215360/
